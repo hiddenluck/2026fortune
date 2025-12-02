@@ -1,0 +1,6 @@
+streamlit
+google-genai
+json
+re
+numpy
+astropy
