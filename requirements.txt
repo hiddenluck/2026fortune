@@ -1,6 +1,9 @@
 streamlit
-google-genai
-json
+google-generativeai
+korean_lunar_calendar
+pandas
+altair
+datetime
+date
+time
 re
-numpy
-astropy
